@@ -1,5 +1,9 @@
 # NPChallenge 🧠
 
+> **Status: closed (milestone, 2026-09-29).** A complete set of NumPy
+> attention/convolution teaching implementations. No further development is
+> planned unless the project's inputs or goals change.
+
 > Minimal NumPy implementations of attention and convolution, with small benchmarks for learning and comparison.
 
 [English](README.md) · [简体中文](README.zh-CN.md)

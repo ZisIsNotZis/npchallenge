@@ -2,7 +2,12 @@
 
 ## Classification
 
-**useful** — inspectable NumPy implementations of causal attention and 2D convolution with correctness and benchmark scripts.
+**useful** (closed milestone) — inspectable NumPy implementations of causal attention and 2D convolution with correctness and benchmark scripts.
+
+## Status
+
+Closed as a milestone (2026-09-29). The teaching implementations are complete;
+no further development is planned unless the project's inputs or goals change.
 
 ## Naming and publication
 
