@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 40" width="200" height="40" role="img" aria-labelledby="t">
+  <title id="t">npchallenge</title>
+  <!-- mark: a 3x3 kernel whose lower triangle is lit, i.e. a causal mask -->
+  <g fill="currentColor">
+    <rect x="4"  y="6"  width="8" height="8" rx="1.5"/>
+    <rect x="4"  y="16" width="8" height="8" rx="1.5"/>
+    <rect x="14" y="16" width="8" height="8" rx="1.5"/>
+    <rect x="4"  y="26" width="8" height="8" rx="1.5"/>
+    <rect x="14" y="26" width="8" height="8" rx="1.5"/>
+    <rect x="24" y="26" width="8" height="8" rx="1.5"/>
+  </g>
+  <g fill="none" stroke="currentColor" stroke-width="1.4" opacity="0.45">
+    <rect x="14" y="6"  width="8" height="8" rx="1.5"/>
+    <rect x="24" y="6"  width="8" height="8" rx="1.5"/>
+    <rect x="24" y="16" width="8" height="8" rx="1.5"/>
+  </g>
+  <text x="42" y="23" fill="currentColor"
+        font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="17" font-weight="700" letter-spacing="-0.4">np<tspan font-weight="400" opacity="0.75">challenge</tspan></text>
+  <text x="42" y="33" fill="currentColor" opacity="0.6"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="7.5" letter-spacing="0.6">NUMPY KERNELS, BY HAND</text>
+</svg>
