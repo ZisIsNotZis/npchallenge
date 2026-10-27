@@ -18,7 +18,7 @@ cd npchallenge
 python3 -m pip install numpy
 ```
 
-Then, from the repo root (the scripts import each other by filename, so no packaging step exists):
+Then, from the repo root (`bench_final.py` imports `conv2d.py` by filename, so there is no packaging step):
 
 ```python
 import numpy as np

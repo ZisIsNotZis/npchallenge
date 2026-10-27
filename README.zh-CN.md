@@ -18,7 +18,7 @@ cd npchallenge
 python3 -m pip install numpy
 ```
 
-然后在仓库根目录下（脚本按文件名互相导入，没有打包步骤）：
+然后在仓库根目录下（`bench_final.py` 按文件名导入 `conv2d.py`，因此没有打包步骤）：
 
 ```python
 import numpy as np
