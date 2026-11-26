@@ -4,6 +4,8 @@
 
 # NPChallenge
 
+**项目状态 · 已完成（2026-11-26）**。仓内声明 2026-09-29 教学里程碑已闭合。独立 NumPy 对照覆盖长短因果注意力、点卷积、带步幅与膨胀的卷积及 FFT 路径，受支持的同维 Q/K/V 数值一致。 [验收记录](COMPLETION.md)。
+
 Pure-NumPy causal attention and 2D convolution, small enough to read in one sitting.
 
 **Two self-contained operators — multi-head causal attention and NCHW convolution — that pick the fastest path NumPy can give them, with every trick written out in readable code instead of hidden inside a framework.**
